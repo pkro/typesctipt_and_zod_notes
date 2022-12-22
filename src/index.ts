@@ -177,3 +177,12 @@ let strArr = getArray<string>(['a', 'b', 'joe']);
 numArr.push(5); // fine
 //numArr.push('hello'); // error
 strArr.push('hello'); // fine
+
+// We can also define state from an existing object!
+const initialState = {
+    first: "Jack",
+    last: "Jackson"
+};
+
+type UserState = typeof initialState;
+

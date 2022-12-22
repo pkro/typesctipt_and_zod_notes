@@ -1,3 +1,6 @@
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 # Notes on various typescript courses on youtube 
 
 https://www.youtube.com/watch?v=BwuLxPH8IDs
@@ -312,6 +315,16 @@ When we are in a (root) directory of a project and just call `tsc`, the tsconfig
     //numArr.push('hello'); // error
     strArr.push('hello'); // fine
 
+    // We can also define state from the shape of an existing object!
+    const initialState = {
+    first: "Jack",
+    last: "Jackson"
+    };
+    
+    type UserState = typeof initialState;
+
+
+
 ## Including typescript with react
 
 `npx create-react-app . --template typescript`
@@ -332,3 +345,4 @@ No more proptypes necessary!
     }
     
     export default Header;
+
