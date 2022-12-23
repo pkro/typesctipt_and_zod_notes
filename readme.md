@@ -1,5 +1,20 @@
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Notes on various typescript courses on youtube](#notes-on-various-typescript-courses-on-youtube)
+  - [What is typescript](#what-is-typescript)
+  - [Why typescript?](#why-typescript)
+  - [Installation](#installation)
+  - [Compilation](#compilation)
+    - [Normal compilation](#normal-compilation)
+    - [With file watches](#with-file-watches)
+  - [Type inference](#type-inference)
+  - [Setting defaults](#setting-defaults)
+  - [Code examples say more than 1000 words](#code-examples-say-more-than-1000-words)
+  - [Including typescript with react](#including-typescript-with-react)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Notes on various typescript courses on youtube 
 
