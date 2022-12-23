@@ -13,6 +13,19 @@
   - [Setting defaults](#setting-defaults)
   - [Code examples say more than 1000 words](#code-examples-say-more-than-1000-words)
   - [Including typescript with react](#including-typescript-with-react)
+  - [ZOD for type validation and inferring types](#zod-for-type-validation-and-inferring-types)
+    - [Basics: primitive types, validation and type inference](#basics-primitive-types-validation-and-type-inference)
+    - [Fine tuning validation of existing zod types](#fine-tuning-validation-of-existing-zod-types)
+    - [Object validation](#object-validation)
+    - [Arrays](#arrays)
+    - [Tuples](#tuples)
+    - [Unions](#unions)
+    - [Records](#records)
+    - [Maps](#maps)
+    - [Sets](#sets)
+    - [Promises](#promises)
+    - [Advanced / custom validation / types](#advanced--custom-validation--types)
+    - [Error handling](#error-handling)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
